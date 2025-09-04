@@ -8,4 +8,4 @@
 // alert("welcome to JS land")
 // alert("Happy Coding!")
 // question:05
-// console.log("Hello.... I can run JS through my web browser's console")
+// console.log("Hello.... I can run JS through my web browser's ")
