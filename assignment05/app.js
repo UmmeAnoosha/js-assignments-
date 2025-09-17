@@ -65,14 +65,12 @@
 // document.write(`4x7=${num7}<br>`)
 // let num8=42
 // document.write(`4x8=${num8}<br>`)
-// let num9=46
+// let num9=460
 // document.write(`4x9=${num9}<br>`)
 // let num10=40
 // document.write(`4x10=${num10}<br>`)
 
 // question:06
-
-
 
 // question:07
 // let price1 =100
