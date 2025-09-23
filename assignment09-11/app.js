@@ -41,11 +41,63 @@
 // }
 
 // question:05
-
-
+// a.
+// let a = 4
+// if(++a==5){
+//     alert(`this is right condition because it is pre-increment`)
+// }
+// b.
+// let b = 82
+// if (b++===83) {
+//     alert(`this is wrong condition because it is post-increment`)
+// }
+// c.
+// let c =12
+// if (c++ ===13) {
+//     alert(`this is wrong condition because it is post-increment`)
+// }
+// if (c===13) {
+//     alert(`this is right condition because upper value is post-increment so now it change 12 to 13`)
+// }
+// if (++c<14) {
+// if (c ===14) {
+//     alert(`this is righth condition because it is equal`)
+// }
+// d.
+// let materialCost = 20000;
+// let laborCost = 2000;
+// let totalCost = materialCost + laborCost;
+// if (totalCost === laborCost + materialCost){
+// alert("The cost equals");
+// }
+// e.
+// if (true){
+// alert("True")
+// }
+// if (false){
+// alert("False");
+// }
+// f.
+// if("car" < "cat"){
+// alert(`car is smaller than cat because value of "T" of cat is greater than value of "R" of car`);
+// }
 
 // question:06
-
+// let totalMarks =300
+// let obtainedMarks =+prompt("write your obtained marks in 3 subjects")
+// let percentage =obtainedMarks/totalMarks*100
+// if (percentage>=80) {
+//     alert(`Grade:A+`)
+// }
+// else if (percentage>=70) {
+//     alert(`Grade:A`)
+// } 
+// else if (percentage>=60) {
+//     alert(`Grade:B`)
+// } 
+// else if (percentage>=50) {
+//     alert(`Failed`)
+// } 
 
 // question:07
 // let secretNumber =+prompt("write any number from 1 to 10")
